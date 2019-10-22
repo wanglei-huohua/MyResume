@@ -151,7 +151,7 @@
        * 数据处理 页面数据渲染 页面事件实现
        
     * **项目用到的技术框架：** 
-            使用react native语言，使用idea开发工具配合微信开发者工具，使用npm管理架包，使用sketch配合imgcook快速生成界面，项目采用mvvm架构
+         * 使用react native语言，使用idea开发工具配合微信开发者工具，使用npm管理架包，使用sketch配合imgcook快速生成界面，项目采用mvvm架构
  
     
  
