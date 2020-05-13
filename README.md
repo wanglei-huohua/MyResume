@@ -165,7 +165,7 @@
         * 主要负责头像更换 以及图片裁切
        
        * **项目用到的技术框架：** 
-        使用swift语言，使用xcode开发工具，使用cocoapods管理架包，storyboard生成界面，项目采用mvc架构
+        * 使用swift语言，使用xcode开发工具，使用cocoapods管理架包，storyboard生成界面，项目采用mvc架构
    
    
   * **火花学院小程序(官网：[火花学院](https://www.huohuaschool.com/))**
