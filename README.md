@@ -15,7 +15,7 @@
  
  ## 技能清单
  - Android(java)：熟悉
- - kotlin:熟悉（项目后来转用此语言开发）
+ - kotlin :熟悉
  - flutter :了解
  - swift:了解（ios协助开发）
  - 开发工具：AndroidStudio （熟练） xcode(了解)
@@ -25,7 +25,7 @@
  ## 公司经历
   * **上海晗鑫科技有限公司（2019.11 ~ 至今）**
     * **职位：** Android开发工程师
-    * **主要工作职责：** 负责未来网咖功能开发，功能迭代
+    * **主要工作职责：** 负责未来网咖功能开发，功能迭代，bug修复，app维护
 
   * **安徽习悦教育科技有限公司 （ 2018年7月 ~ 2019.11 ）**
   
@@ -67,7 +67,7 @@
     * 项目使用 rxjava + okhttp + dagger2 +Retrofit+RxLifecycle  mvc架构搭建，
     使用eventbus做事件分发，使用kotlin开发，项目中键盘，鼠标，自定义按键为自定义view,
     项目集成腾讯im推送，使用socket通讯，做socket心跳，使用DSBridge与h5交互，集成友盟分享，bugly。
-    使用dialogfragment。
+    项目主体才用mvp 架构，部分使用mvvm 架构采用 vm 采用viewmodel + livedata 使用观察者 将页面与数据绑定
 
 
  * **火花学院app (官网：[火花学院](https://www.huohuaschool.com/))**
