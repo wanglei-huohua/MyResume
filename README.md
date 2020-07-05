@@ -53,21 +53,17 @@
 
   * **项目职责：**
 
-    * 项目首页开发
-    * 项目充值页面开发
-    * 项目vip页面开发
-    * 项目我的页面开发
-    * 项目设置页面开发
-    * 自定义游戏键盘开发
-    * 对接支付宝、微信支付
-    * 后台接口对接
-    * 将项目代码部分转为kotlin
-    
-  * **项目用到的技术框架：**
-    * 项目使用 rxjava + okhttp + dagger2 +Retrofit+RxLifecycle  mvc架构搭建，
-    使用eventbus做事件分发，使用kotlin开发，项目中键盘，鼠标，自定义按键为自定义view,
-    项目集成腾讯im推送，使用socket通讯，做socket心跳，使用DSBridge与h5交互，集成友盟分享，bugly。
-    项目主体才用mvp 架构，部分使用mvvm 架构采用 vm 采用viewmodel + livedata 使用观察者 将页面与数据绑定
+    * 重构框架，采取LiveData+ViewModel解决观察者生命期问题
+    * 为了安全性，代码进行混淆加固
+    * 解决Tablayout+ViewPager+Fragment 卡顿数据丢失问题
+    * 搭建jinkens,实现自动化打包
+    * 负责并设计本地数据库
+    * 负责首页，活动页面，充值页面，设计开发
+    * 引入bugly进行日常app报错及日志分析
+    * 引入jsbridge与h5进行交互
+
+  * **项目业绩**
+
 
 
  * **火花学院app (官网：[火花学院](https://www.huohuaschool.com/))**
