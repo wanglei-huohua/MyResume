@@ -17,8 +17,6 @@
  - Android(java)：熟悉
  - kotlin :熟悉
  - flutter :了解
- - swift:了解（ios协助开发）
- - unity3d :了解（项目中有集成模块）
  - 开发工具：AndroidStudio （熟练）
  - 版本管理：Svn/Git
  - vue(了解)
